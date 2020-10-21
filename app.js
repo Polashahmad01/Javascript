@@ -39,3 +39,82 @@
 // }
 
 // console.log(square(6));
+
+//==============================================================================================
+
+// let x = 10;
+// let y = 5;
+
+// console.log(x + y);
+// console.log(x - y);
+// console.log(x * y);
+// console.log(x / y);
+// console.log(x % y);
+// console.log(x ** y);
+
+
+// console.log(++x);
+// console.log(x);
+// console.log(x++);
+// console.log(x);
+
+// console.log(--y);
+// console.log(y);
+// console.log(y--);
+// console.log(y);
+
+// let z = 5;
+
+// console.log(z++)
+
+// z = z + 5;
+// z += 5;
+// console.log(z)
+
+
+// let x = 1;
+
+// console.log(x > 0);
+// console.log(x >= 0);
+// console.log(x < 0);
+// console.log(x <= 0);
+
+// console.log( x === 1);
+// console.log(x !== 2);
+
+
+// console.log( 5 === 5);
+// console.log('5' === 5);
+
+// console.log(5 == 5);
+// console.log('5' == 5);
+// console.log(false == 0);
+
+// let money = 200;
+
+// const memberShip = money > 90 ? 'Gold Member' : 'Silver Member';
+// console.log(memberShip);
+
+
+// &&
+// let age = 5;
+// let income = 2000;
+
+// if(age > 0 && income > 2000) {
+//     console.log(true);
+// }
+
+// // ||
+// if( age > 10 || income > 10) {
+//     console.log(true)
+// }
+
+// let a = 'red';
+// let b = 'blue';
+
+// let c = a;
+// a = b;
+// b = c;
+
+// console.log(a);
+// console.log(b);
